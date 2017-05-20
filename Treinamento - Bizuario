@@ -1,0 +1,11 @@
+Compilar no Terminal: gcc -c nomearquivo.c   //O arquivo será gerado com o nome padrão
+Montar: gcc -o monstrinho prog1.o prog2.o prog3.o ...
+Executar o programa: ./nomearquivo
+
+Quando tiver um arquivo só: gcc nomearquivo.c -o nomearquivo
+
+
+
+
+%c -> Char
+%d -> Inteiro

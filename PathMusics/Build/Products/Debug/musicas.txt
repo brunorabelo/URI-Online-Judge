@@ -1,0 +1,2 @@
+/Users/macbook/Documents/Bruno/Projetos/Treinamento/PathMusics/Build/Products/Debug/musicas.txt
+/Users/macbook/Documents/Bruno/Projetos/Treinamento/PathMusics/Build/Products/Debug/PathMusics

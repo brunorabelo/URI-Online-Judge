@@ -1,0 +1,55 @@
+  1:  04/21/1955 invalida
+  2:  21/04/1955 ok
+  3:  2025630049 primo
+  4:  29/02/2008 ok
+  5:  29/02/2538 invalida
+  6:  07/07/1507 invalida
+  7:  29/02/2009 invalida
+  8:  29/02/2000 ok
+  9:  01/01/2003 ok
+ 10:  30/01/2003 ok
+ 11:  31/01/2003 ok
+ 12:  22/13/2002 invalida
+ 13:  32/01/2003 invalida
+ 14:  01/02/2003 ok
+ 15:  29/02/2003 invalida
+ 16:  30/04/2003 ok
+ 17:  31/04/2003 invalida
+ 18:  84848484 multiplo de 21
+ 19:  2388461 nao multiplo de 21
+ 20:  2025000000 quadrado perfeito
+ 21:  21212184 multiplo de 21
+ 22:  1000342 nao multiplo de 21
+ 23:  77 nao multiplo de 21
+ 24:  -1166655 multiplo de 21
+ 25:  23 primo
+ 26:  42651 nao primo
+ 27:  494973 nao primo
+ 28:  -1674115757 primo
+ 29:  1 nao primo
+ 30:  2000000033 primo
+ 31:  324 quadrado perfeito
+ 32:  45370 nao quadrado perfeito
+ 33:  1 quadrado perfeito
+ 34:  10000 quadrado perfeito
+ 35:  9999 nao quadrado perfeito
+ 36:  0 quadrado perfeito
+ 37:  3 primo
+-----
+
+(a) Quantidade de vezes que foi executada cada tarefa:
+    Data valida:         16 vezes
+    Primo:               8 vezes
+    Quadrado perfeito:   7 vezes
+    Multiplo de 21:      6 vezes
+
+(b) Qual o maior multiplo de 21:
+    84848484
+    ocorre no caso 18
+
+(c) Qual o maior primo:
+    2025630049
+    ocorre no caso 3
+
+-----
+
